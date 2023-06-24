@@ -1,0 +1,23 @@
+{
+  "name": "file-manager",
+  "version": "1.0.0",
+  "description": "File Manager RSSchool task",
+  "type": "module",
+  "scripts": {
+    "cp": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/treyer-modsen/file-manager"
+  },
+  "keywords": [
+    "nodejs",
+    "file manager"
+  ],
+  "author": "Andrei Kazhanenka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/treyer-modsen/file-manager/issues"
+  },
+  "homepage": "https://github.com/treyer-modsen/file-manager#readme"
+}
